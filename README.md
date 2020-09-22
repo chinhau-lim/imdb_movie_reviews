@@ -1,6 +1,6 @@
-## IMDb Movie Reviews - NLP Technique Exploration
+## IMDb Movie Reviews - Sentiment Classification
 
-### This project uses the IMDb movie reviews dataset to explore and compare the performance of different NLP techniques and ML algorithms.
+### This project uses the IMDb movie reviews dataset to predict the number of positive/negative reviews and explore the performance of different NLP techniques and ML algorithms.
 <br>
 
 This project can be divided into 2 parts: 
